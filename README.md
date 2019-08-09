@@ -1,7 +1,7 @@
 Example Voting App
 =========
 
-A simple distributed application running across multiple Docker containers.  
+A simple distributed application running across multiple Docker containers.  This is an example code change.
 
 
 Getting started
